@@ -3,7 +3,7 @@ Un repositorio con código fuente que demuestra el uso de los diferentes tipos d
 
 En este repositorio mostramos los diferentes tipos de redes que podemos encontrar en doccker.
 
-[0] LAB 0
+- [ ] LAB 0
 
 [checkbox:unchecked] LAB 1
 
