@@ -6,7 +6,7 @@
 docker run --name=busybox -it --rm --network=host busybox ip addr 
 ```
 
-## Comando a ejecutar en la maquina vagrant
+## Comando a ejecutar en la máquina vagrant
 ```
 ip addr
 ```
